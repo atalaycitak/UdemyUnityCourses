@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8BF2BDC8-B84F-4406-B84A-3CB17AF7117A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToplayiciUygulama/Program.cs">
+    <Files>
+      <File FileName="ToplayiciUygulama/Program.cs" Line="20" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToplayiciUygulama" expanded="True">
+            <Node name="ToplayiciUygulama" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ToplayiciUygulama PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

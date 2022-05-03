@@ -1,0 +1,6 @@
+/Users/atalaycitak/Projects/TasarrufUygulamasi/TasarrufUygulamasi/bin/Debug/TasarrufUygulamasi.exe
+/Users/atalaycitak/Projects/TasarrufUygulamasi/TasarrufUygulamasi/bin/Debug/TasarrufUygulamasi.pdb
+/Users/atalaycitak/Projects/TasarrufUygulamasi/TasarrufUygulamasi/obj/Debug/TasarrufUygulamasi.csproj.AssemblyReference.cache
+/Users/atalaycitak/Projects/TasarrufUygulamasi/TasarrufUygulamasi/obj/Debug/TasarrufUygulamasi.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Projects/TasarrufUygulamasi/TasarrufUygulamasi/obj/Debug/TasarrufUygulamasi.exe
+/Users/atalaycitak/Projects/TasarrufUygulamasi/TasarrufUygulamasi/obj/Debug/TasarrufUygulamasi.pdb

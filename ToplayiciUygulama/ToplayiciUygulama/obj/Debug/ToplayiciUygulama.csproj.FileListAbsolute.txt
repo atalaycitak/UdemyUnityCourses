@@ -1,0 +1,6 @@
+/Users/atalaycitak/Projects/ToplayiciUygulama/ToplayiciUygulama/bin/Debug/ToplayiciUygulama.exe
+/Users/atalaycitak/Projects/ToplayiciUygulama/ToplayiciUygulama/bin/Debug/ToplayiciUygulama.pdb
+/Users/atalaycitak/Projects/ToplayiciUygulama/ToplayiciUygulama/obj/Debug/ToplayiciUygulama.csproj.AssemblyReference.cache
+/Users/atalaycitak/Projects/ToplayiciUygulama/ToplayiciUygulama/obj/Debug/ToplayiciUygulama.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Projects/ToplayiciUygulama/ToplayiciUygulama/obj/Debug/ToplayiciUygulama.exe
+/Users/atalaycitak/Projects/ToplayiciUygulama/ToplayiciUygulama/obj/Debug/ToplayiciUygulama.pdb

@@ -1,0 +1,6 @@
+/Users/atalaycitak/Projects/KareAlmaUygulamasi/KareAlmaUygulamasi/obj/Debug/KareAlmaUygulamasi.csproj.AssemblyReference.cache
+/Users/atalaycitak/Projects/KareAlmaUygulamasi/KareAlmaUygulamasi/obj/Debug/KareAlmaUygulamasi.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Projects/KareAlmaUygulamasi/KareAlmaUygulamasi/bin/Debug/KareAlmaUygulamasi.exe
+/Users/atalaycitak/Projects/KareAlmaUygulamasi/KareAlmaUygulamasi/bin/Debug/KareAlmaUygulamasi.pdb
+/Users/atalaycitak/Projects/KareAlmaUygulamasi/KareAlmaUygulamasi/obj/Debug/KareAlmaUygulamasi.exe
+/Users/atalaycitak/Projects/KareAlmaUygulamasi/KareAlmaUygulamasi/obj/Debug/KareAlmaUygulamasi.pdb

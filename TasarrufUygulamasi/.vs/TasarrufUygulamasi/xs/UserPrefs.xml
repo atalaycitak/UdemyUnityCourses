@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F3545C1C-06D9-47DC-8D26-A4F5743E196E}|Default">
+  <MonoDevelop.Ide.ItemProperties.TasarrufUygulamasi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TasarrufUygulamasi/Program.cs">
+    <Files>
+      <File FileName="TasarrufUygulamasi/Program.cs" Line="9" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TasarrufUygulamasi" expanded="True">
+            <Node name="TasarrufUygulamasi" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
