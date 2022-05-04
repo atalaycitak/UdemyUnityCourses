@@ -1,0 +1,6 @@
+/Users/atalaycitak/Developer/Udemy Unity Course/KareAlveyaTekCift/KareAlveyaTekCift/obj/Debug/KareAlveyaTekCift.csproj.AssemblyReference.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/KareAlveyaTekCift/KareAlveyaTekCift/obj/Debug/KareAlveyaTekCift.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/KareAlveyaTekCift/KareAlveyaTekCift/bin/Debug/KareAlveyaTekCift.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/KareAlveyaTekCift/KareAlveyaTekCift/bin/Debug/KareAlveyaTekCift.pdb
+/Users/atalaycitak/Developer/Udemy Unity Course/KareAlveyaTekCift/KareAlveyaTekCift/obj/Debug/KareAlveyaTekCift.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/KareAlveyaTekCift/KareAlveyaTekCift/obj/Debug/KareAlveyaTekCift.pdb

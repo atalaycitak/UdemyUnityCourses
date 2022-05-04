@@ -1,0 +1,6 @@
+/Users/atalaycitak/Developer/Udemy Unity Course/If-ElseYapisi/If-ElseYapisi/obj/Debug/If-ElseYapisi.csproj.AssemblyReference.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/If-ElseYapisi/If-ElseYapisi/obj/Debug/If-ElseYapisi.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/If-ElseYapisi/If-ElseYapisi/bin/Debug/If-ElseYapisi.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/If-ElseYapisi/If-ElseYapisi/bin/Debug/If-ElseYapisi.pdb
+/Users/atalaycitak/Developer/Udemy Unity Course/If-ElseYapisi/If-ElseYapisi/obj/Debug/If-ElseYapisi.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/If-ElseYapisi/If-ElseYapisi/obj/Debug/If-ElseYapisi.pdb

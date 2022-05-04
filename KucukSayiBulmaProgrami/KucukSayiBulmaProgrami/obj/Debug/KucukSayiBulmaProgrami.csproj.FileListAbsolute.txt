@@ -1,0 +1,6 @@
+/Users/atalaycitak/Projects/KucukSayiBulmaProgrami/KucukSayiBulmaProgrami/bin/Debug/KucukSayiBulmaProgrami.exe
+/Users/atalaycitak/Projects/KucukSayiBulmaProgrami/KucukSayiBulmaProgrami/bin/Debug/KucukSayiBulmaProgrami.pdb
+/Users/atalaycitak/Projects/KucukSayiBulmaProgrami/KucukSayiBulmaProgrami/obj/Debug/KucukSayiBulmaProgrami.csproj.AssemblyReference.cache
+/Users/atalaycitak/Projects/KucukSayiBulmaProgrami/KucukSayiBulmaProgrami/obj/Debug/KucukSayiBulmaProgrami.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Projects/KucukSayiBulmaProgrami/KucukSayiBulmaProgrami/obj/Debug/KucukSayiBulmaProgrami.exe
+/Users/atalaycitak/Projects/KucukSayiBulmaProgrami/KucukSayiBulmaProgrami/obj/Debug/KucukSayiBulmaProgrami.pdb

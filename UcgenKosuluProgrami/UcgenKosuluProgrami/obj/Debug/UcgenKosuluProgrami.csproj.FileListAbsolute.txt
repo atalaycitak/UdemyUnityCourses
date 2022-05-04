@@ -1,0 +1,6 @@
+/Users/atalaycitak/Projects/UcgenKosuluProgrami/UcgenKosuluProgrami/bin/Debug/UcgenKosuluProgrami.exe
+/Users/atalaycitak/Projects/UcgenKosuluProgrami/UcgenKosuluProgrami/bin/Debug/UcgenKosuluProgrami.pdb
+/Users/atalaycitak/Projects/UcgenKosuluProgrami/UcgenKosuluProgrami/obj/Debug/UcgenKosuluProgrami.csproj.AssemblyReference.cache
+/Users/atalaycitak/Projects/UcgenKosuluProgrami/UcgenKosuluProgrami/obj/Debug/UcgenKosuluProgrami.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Projects/UcgenKosuluProgrami/UcgenKosuluProgrami/obj/Debug/UcgenKosuluProgrami.exe
+/Users/atalaycitak/Projects/UcgenKosuluProgrami/UcgenKosuluProgrami/obj/Debug/UcgenKosuluProgrami.pdb

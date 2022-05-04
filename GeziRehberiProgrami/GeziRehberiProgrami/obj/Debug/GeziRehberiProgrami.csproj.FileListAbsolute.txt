@@ -1,0 +1,6 @@
+/Users/atalaycitak/Developer/Udemy Unity Course/GeziRehberiProgrami/GeziRehberiProgrami/obj/Debug/GeziRehberiProgrami.csproj.AssemblyReference.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/GeziRehberiProgrami/GeziRehberiProgrami/obj/Debug/GeziRehberiProgrami.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/GeziRehberiProgrami/GeziRehberiProgrami/bin/Debug/GeziRehberiProgrami.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/GeziRehberiProgrami/GeziRehberiProgrami/bin/Debug/GeziRehberiProgrami.pdb
+/Users/atalaycitak/Developer/Udemy Unity Course/GeziRehberiProgrami/GeziRehberiProgrami/obj/Debug/GeziRehberiProgrami.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/GeziRehberiProgrami/GeziRehberiProgrami/obj/Debug/GeziRehberiProgrami.pdb

@@ -1,0 +1,6 @@
+/Users/atalaycitak/Developer/Udemy Unity Course/TekCiftUygulamasi/TekCiftUygulamasi/bin/Debug/TekCiftUygulamasi.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/TekCiftUygulamasi/TekCiftUygulamasi/bin/Debug/TekCiftUygulamasi.pdb
+/Users/atalaycitak/Developer/Udemy Unity Course/TekCiftUygulamasi/TekCiftUygulamasi/obj/Debug/TekCiftUygulamasi.csproj.AssemblyReference.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/TekCiftUygulamasi/TekCiftUygulamasi/obj/Debug/TekCiftUygulamasi.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/TekCiftUygulamasi/TekCiftUygulamasi/obj/Debug/TekCiftUygulamasi.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/TekCiftUygulamasi/TekCiftUygulamasi/obj/Debug/TekCiftUygulamasi.pdb

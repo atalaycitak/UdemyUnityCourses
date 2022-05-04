@@ -1,0 +1,6 @@
+/Users/atalaycitak/Developer/Udemy Unity Course/SwitchCase/SwitchCase/bin/Debug/SwitchCase.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/SwitchCase/SwitchCase/bin/Debug/SwitchCase.pdb
+/Users/atalaycitak/Developer/Udemy Unity Course/SwitchCase/SwitchCase/obj/Debug/SwitchCase.csproj.AssemblyReference.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/SwitchCase/SwitchCase/obj/Debug/SwitchCase.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/SwitchCase/SwitchCase/obj/Debug/SwitchCase.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/SwitchCase/SwitchCase/obj/Debug/SwitchCase.pdb
