@@ -1,0 +1,6 @@
+/Users/atalaycitak/Developer/Udemy Unity Course/HavaDurumu/HavaDurumu/bin/Debug/HavaDurumu.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/HavaDurumu/HavaDurumu/bin/Debug/HavaDurumu.pdb
+/Users/atalaycitak/Developer/Udemy Unity Course/HavaDurumu/HavaDurumu/obj/Debug/HavaDurumu.csproj.AssemblyReference.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/HavaDurumu/HavaDurumu/obj/Debug/HavaDurumu.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/HavaDurumu/HavaDurumu/obj/Debug/HavaDurumu.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/HavaDurumu/HavaDurumu/obj/Debug/HavaDurumu.pdb

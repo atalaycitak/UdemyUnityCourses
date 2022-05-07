@@ -1,0 +1,6 @@
+/Users/atalaycitak/Developer/HesapMakinesi/HesapMakinesi/obj/Debug/HesapMakinesi.csproj.AssemblyReference.cache
+/Users/atalaycitak/Developer/HesapMakinesi/HesapMakinesi/obj/Debug/HesapMakinesi.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Developer/HesapMakinesi/HesapMakinesi/bin/Debug/HesapMakinesi.exe
+/Users/atalaycitak/Developer/HesapMakinesi/HesapMakinesi/bin/Debug/HesapMakinesi.pdb
+/Users/atalaycitak/Developer/HesapMakinesi/HesapMakinesi/obj/Debug/HesapMakinesi.exe
+/Users/atalaycitak/Developer/HesapMakinesi/HesapMakinesi/obj/Debug/HesapMakinesi.pdb

@@ -1,0 +1,6 @@
+/Users/atalaycitak/Developer/Udemy Unity Course/1denXe/1denXe/bin/Debug/1denXe.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/1denXe/1denXe/bin/Debug/1denXe.pdb
+/Users/atalaycitak/Developer/Udemy Unity Course/1denXe/1denXe/obj/Debug/1denXe.csproj.AssemblyReference.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/1denXe/1denXe/obj/Debug/1denXe.csproj.CoreCompileInputs.cache
+/Users/atalaycitak/Developer/Udemy Unity Course/1denXe/1denXe/obj/Debug/1denXe.exe
+/Users/atalaycitak/Developer/Udemy Unity Course/1denXe/1denXe/obj/Debug/1denXe.pdb

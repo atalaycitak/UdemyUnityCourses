@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HavaDurumu", "HavaDurumu\HavaDurumu.csproj", "{6B1BAD9A-A033-4DFF-BAB8-556C5474F2E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B1BAD9A-A033-4DFF-BAB8-556C5474F2E8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6B1BAD9A-A033-4DFF-BAB8-556C5474F2E8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6B1BAD9A-A033-4DFF-BAB8-556C5474F2E8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6B1BAD9A-A033-4DFF-BAB8-556C5474F2E8}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B182C9-A478-44B1-B199-34A256EDA5F7}
+	EndGlobalSection
+EndGlobal
